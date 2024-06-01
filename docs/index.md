@@ -22,7 +22,7 @@ pip install mobfot
 pip install mobfot
 ```
 
-```python
+```py
 from mobfot import MobFot
 client = MobFot()
 client.get_matches_by_date("20221205")
