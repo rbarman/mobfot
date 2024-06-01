@@ -18,8 +18,10 @@ pip install mobfot
 
 ### Quick Start
 
-```{.py .py-pre}
-pip install mobfot
+```html
+  <py-config type="toml">
+    packages = ["mobfot"]
+  </py-config>
 ```
 
 ```py
