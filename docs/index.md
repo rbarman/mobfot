@@ -18,6 +18,10 @@ pip install mobfot
 
 ### Quick Start
 
+```{.py .py-pre}
+pip install mobfot
+```
+
 ```python
 from mobfot import MobFot
 client = MobFot()
